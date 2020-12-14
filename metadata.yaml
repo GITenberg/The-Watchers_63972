@@ -1,0 +1,32 @@
+_repo: The-Watchers_63972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aycock, Roger D.
+    aliases:
+    - Starr, John
+    - Dee, Roger
+    birthdate: 1914
+    deathdate: 2004
+    gutenberg_agent_id: '25679'
+    url: http://www.gutenberg.org/2009/agents/25679
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Dee
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Earth (Planet) -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Watchers
+url: http://www.gutenberg.org/ebooks/63972
